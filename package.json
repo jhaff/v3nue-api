@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/KhallilB/V3nue-API/issues"
   },
-  "homepage": "https://github.com/KhallilB/V3nue-API#readme"
+  "homepage": "https://github.com/KhallilB/V3nue-API#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node": "^11.0.0"
+  }
 }
